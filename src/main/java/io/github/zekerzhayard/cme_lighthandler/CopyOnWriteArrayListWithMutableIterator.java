@@ -1,4 +1,4 @@
-package io.github.zekerzhayard.cme_guisubtitleoverlay;
+package io.github.zekerzhayard.cme_lighthandler;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
